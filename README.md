@@ -33,11 +33,11 @@
 
 ###
 
-<p align="left">* I am a Network Sysadmin Technician specialized in Cybersecurity from Almería, Spain</p>
+* I am a Network Sysadmin Technician specialized in Cybersecurity from Almería, Spain
 
 ###
 
-<p align="left">* I am currently seeking a position in the field I am most passionate about: technology and its security. This led me to pursue a career in systems administration and specialize in cybersecurity.</p>
+* I am currently seeking a position in the field I am most passionate about: technology and its security. This led me to pursue a career in systems administration and specialize in cybersecurity.
 
 ###
 
